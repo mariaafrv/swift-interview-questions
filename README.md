@@ -5,7 +5,7 @@
 </div>
 
 ---------------------
-Repositório com intuito de organizar, por tópicos, resumos feitos para estudos da linguagem Swift. Os resumos foram feitos baseados em um compilado de questões de entrevistas para vagas de desenvolvedor iOS.
+Repositório com intuito de organizar, por tópicos, resumos feitos para estudos da linguagem Swift. Os resumos foram feitos baseados em um compilado de questões de entrevistas para vagas de pessoa desenvolvedora iOS.
 
 As questões ficarão separadas por nível de dificuldade e cada tópico terá também um resumo curto sobre o assunto.
 
