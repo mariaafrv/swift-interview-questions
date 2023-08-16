@@ -14,10 +14,9 @@ As questões ficarão separadas por nível de dificuldade e cada tópico terá t
 
 1. [UIKit VS SwiftUI](/1-Iniciante/uikit-vs-swiftui.md)
 2. [Struct VS Class](/1-Iniciante/struct-vs-class.md)
+3. [Optionals](/1-Iniciante/optionals.md)
 
 
 ## Intermediário
-
-
 
 3. [Protocols](/2-Intermedi%C3%A1rio/protocols.md)
